@@ -9,13 +9,15 @@
 ## 📁 폴더 구조
 
 ```
-cse4100/
-├── phase1/              # Phase 1: fork & signal
-├── phase2/              # Phase 2: pipe (|) 구현
-├── phase3/              # Phase 3: background (&) 처리
-├── document_20221197.pdf # 보고서 문서
-└── README.md            # 프로젝트 개요 설명 파일
 ```
+cse4100/
+├── phase1/                # Phase 1: fork & signal
+├── phase2/                # Phase 2: pipe (|) 구현
+├── phase3/                # Phase 3: background (&) 처리
+├── document_20221197.pdf  # 보고서 문서
+└── README.md              # 프로젝트 개요 설명 파일
+```
+
 
 ## 🧩 프로젝트 구성
 
