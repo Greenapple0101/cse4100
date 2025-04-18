@@ -1,5 +1,5 @@
 
-## 📘 `README.md` 예시 (CSE4100 시스템 프로그래밍 과제용)
+## 📘 `README.md'
 
 ```markdown
 # CSE4100: Systems Programming - Project Repository
